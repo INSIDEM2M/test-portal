@@ -1,0 +1,11 @@
+:host {
+    margin: 0 auto;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+    .details {
+        margin: 1rem;
+    }
+}
